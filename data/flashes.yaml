@@ -1,15 +1,15 @@
-Color: '#ff00ff'
+Color: '#B4FFFF'
 Act: Celeste
 Anchor: celeste
 ---
-Flash: 'Celeste'
-Page: 'celeste'
+Flash: 'Menus'
+Page: 'menus'
 Featured Tracks:
 - Postcard from Celeste Mountain
 - The Empty Space Above
 - My Dearest Friends
 ---
-Color: '#ff00ff'
+Color: '#B77051'
 Act: Prologue
 Anchor: prologue
 ---
@@ -18,7 +18,7 @@ Page: 'prologue'
 Featured Tracks:
 - Prologue
 ---
-Color: '#ff00ff'
+Color: '#608BFF'
 Act: Chapter 1
 Anchor: chapter-1
 ---
@@ -41,7 +41,7 @@ Page: '1c'
 Featured Tracks:
 - Forsaken City (Sever the Skyline Mix)
 ---
-Color: '#ff00ff'
+Color: '#BC90B7'
 Act: Chapter 2
 Anchor: chapter-2
 ---
@@ -58,13 +58,14 @@ Flash: 'Old Site B-Side'
 Page: '2b'
 Featured Tracks:
 - Old Site (Black Moonrise Mix)
+- Old Site (8-Bit)
 ---
 Flash: 'Old Site C-Side'
 Page: '2c'
 Featured Tracks:
 - Old Site (Black Moonrise Mix)
 ---
-Color: '#ff00ff'
+Color: '#B98232'
 Act: Chapter 3
 Anchor: chapter-3
 ---
@@ -87,7 +88,7 @@ Page: '3c'
 Featured Tracks:
 - Celestial Resort (Good Karma Mix)
 ---
-Color: '#ff00ff'
+Color: '#D7A5FF'
 Act: Chapter 4
 Anchor: chapter-4
 ---
@@ -110,7 +111,7 @@ Page: '4c'
 Featured Tracks:
 - Golden Ridge (Golden Feather Mix)
 ---
-Color: '#ff00ff'
+Color: '#8BC8E4'
 Act: Chapter 5
 Anchor: chapter-5
 ---
@@ -133,7 +134,7 @@ Page: '5c'
 Featured Tracks:
 - Mirror Temple (Mirror Magic Mix)
 ---
-Color: '#ff00ff'
+Color: '#62E84B'
 Act: Chapter 6
 Anchor: chapter-6
 ---
@@ -160,7 +161,7 @@ Page: '6c'
 Featured Tracks:
 - Reflection (Center of the Earth Mix)
 ---
-Color: '#ff00ff'
+Color: '#FFA3F5'
 Act: Chapter 7
 Anchor: chapter-7
 ---
@@ -182,7 +183,7 @@ Page: '7c'
 Featured Tracks:
 - Summit (No More Running Mix)
 ---
-Color: '#ff00ff'
+Color: '#B77051'
 Act: Epilogue
 Anchor: epilogue
 ---
@@ -191,7 +192,7 @@ Page: 'epilogue'
 Featured Tracks:
 - Exhale
 ---
-Color: '#ff00ff'
+Color: '#A8170B'
 Act: Chapter 8
 Anchor: chapter-8
 ---
@@ -212,7 +213,7 @@ Page: '8c'
 Featured Tracks:
 - The Core (Say Goodbye Mix)
 ---
-Color: '#ff00ff'
+Color: '#A1B1DB'
 Act: Chapter 9
 Anchor: chapter-9
 ---

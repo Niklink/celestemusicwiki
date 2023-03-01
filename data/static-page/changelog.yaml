@@ -1,0 +1,31 @@
+Name: Changelog
+Directory: changelog
+Style: |-
+    h2:not(.major-release) {
+        font-size: 1.1em;
+    }
+
+    h2.major-release {
+        font-size: 1.4em;
+    }
+
+    h2 {
+        margin-bottom: 0.4em;
+    }
+
+    h3 {
+        margin: 0;
+        font-size: 1em;
+    }
+
+    ul {
+        margin-top: 0.2em;
+        margin-bottom: 0.6em;
+    }
+Content: |-
+    <h2 id="01-mar-2023" class="major-release"><a href="#01-mar-2023">[[date:01 March 2023]] - Initial release!</a></h2>
+    <h3>albums:</h3>
+    - [[album:celeste-original-soundtrack]]
+    - [[album:celeste-b-sides]]
+    - [[album:celeste-madelines-grab-bag]]
+    - [[album:celeste-farewell-original-soundtrack]]

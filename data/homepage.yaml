@@ -3,10 +3,11 @@ Navbar Links:
 - '[[static:about]]'
 - '[[static:changelog]]'
 ---
-Row: Albums
+Row: Celeste Soundtrack
 Type: albums
 Albums:
 - album:celeste-original-soundtrack
 - album:celeste-b-sides
 - album:celeste-madelines-grab-bag
 - album:celeste-farewell-original-soundtrack
+- album:underlying-motifs

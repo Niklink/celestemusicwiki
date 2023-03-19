@@ -1,0 +1,57 @@
+Album: Underlying Motifs
+Has Cover Art: false
+Has Track Art: false
+Has Track Numbers: false
+Color: '#D0DDE5'
+Commentary: |-
+    <i>Niklink:</i>
+    Throughout Celeste, several short motifs are repeated that cannot reasonably be attributed to a single piece of released music. In <a href="https://medium.com/@kuraine/one-year-later-on-continuing-and-concluding-the-score-to-celeste-96262b2f66a0">this article about Farewell's soundtrack</a>, Lena Raine explains their usage and provides names for them. This 'album' collects these motifs in one place for wiki structural purposes.
+---
+Section: Main game
+---
+Track: Madeline's Theme
+Artists:
+- Lena Raine
+---
+Track: Badeline's Theme
+Artists:
+- Lena Raine
+Commentary: |-
+    <i>Lena Raine:</i>
+    Note that, while I refer to her as Badeline out of convenience, I mean Madeline’s Part of Herself, and that Badeline isn’t her official name. But y’know, convenience.
+---
+Track: Theo's Theme
+Artists:
+- Lena Raine
+---
+Section: Introduced in Farewell
+---
+Track: Madeline's Grief
+Artists:
+- Lena Raine
+Commentary: |-
+    <i>Lena Raine:</i>
+    ...motif played on piano that represents Madeline’s grief or fear. In a way, it’s like the inverse of her theme. While you might think of Badeline’s theme as an inverse, like the character herself they’re more related and mirrored than what this motif does. While Madeline’s theme is an ascent up the mountain, Madeline’s grief is a descent, with a diminished 5th at its lowest, sinking her into a pit she will need to recover from.
+Sheet Music Files:
+- Title: Sheet music by Lena Raine (original composer)
+  Files:
+  - madelines-grief.png
+---
+Track: Bird's Theme
+Artists:
+- Lena Raine
+Commentary: |-
+    <i>Lena Raine:</i>
+    It’s a simple theme that mostly winds around the chord changes, but is my attempt to illustrate the bird’s flight away from Madeline and into the unknown.
+Sheet Music Files:
+- Title: Sheet music by Lena Raine (original composer)
+  Files:
+  - birds-theme.png
+---
+Track: Granny's Theme
+Artists:
+- Lena Raine
+Sheet Music Files:
+- Title: Sheet music by Lena Raine (original composer)
+  Files:
+  - grannys-theme.png

@@ -3,5 +3,8 @@
 /out
 
 /media/thumbnail-cache.json
-/media/**/*.medium.jpg
 /media/**/*.small.jpg
+/media/**/*.medium.jpg
+/media/**/*.large.jpg
+/media/**/*.semihuge.jpg
+/media/**/*.huge.jpg

@@ -1,0 +1,61 @@
+Album: Celeste Classic
+Artists:
+- Maddy Thorson
+Date: July 21, 2015 
+Date Added: April 13, 2023
+URLs:
+- https://www.youtube.com/playlist?list=PL0JVq5p3x9Eg3UU-4L_205e5N2g3m8USy
+Color: '#29ADFF'
+Has Track Art: false
+Cover Artists:
+- Noel Berry
+Cover Art File Extension: png
+Wallpaper Artists:
+- Celeste
+Wallpaper Style: |-
+    opacity: 0.7;
+    background-position: bottom;
+Wallpaper File Extension: png
+Commentary: |-
+    <i>Maddy Thorson:</i>
+    <a href="https://mattmakesgames.itch.io/celesteclassic">A PICO-8 platformer about climbing a mountain, made in four days.</a>
+
+    <i>Niklink:</i>
+    Celeste Classic (known as simply Celeste at the time of its release) was the original incarnation of the game— while it would eventually become included as bonus content in what is now properly known as Celeste, no release of its soundtrack was ever made. Therefore this page does not correspond to any real album release; all track names are unofficial.
+---
+Track: Title Screen
+URLs:
+- https://www.youtube.com/watch?v=om5Ho6JIE_8
+Commentary: |-
+    <i>Niklink:</i>
+    Plays on the title screen.
+---
+Track: Area 1
+URLs:
+- https://www.youtube.com/watch?v=z135VLiwtxw
+Commentary: |-
+    <i>Niklink:</i>
+    Plays from 100m through 1100m.
+---
+Track: Area 2
+URLs:
+- https://www.youtube.com/watch?v=vbGZ4eSgqNU
+Commentary: |-
+    <i>Niklink:</i>
+    Plays from 1300m through 2100m.
+---
+Track: Area 3
+URLs:
+- https://www.youtube.com/watch?v=gQqqZKjQvqw
+Commentary: |-
+    <i>Niklink:</i>
+    Plays from 2200m (after collecting the powerup) through 3000m.
+---
+Track: Rest
+URLs:
+- https://www.youtube.com/watch?v=caPZ9yJq3vY
+Commentary: |-
+    <i>Niklink:</i>
+    Plays at the Old Site (1200m), 2200m (before collecting the powerup), and the Summit.
+
+    Ingame, only the wind noises play without the melody ever kicking in, although it is present in the game files.

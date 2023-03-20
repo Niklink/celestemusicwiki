@@ -28,6 +28,8 @@ Content: |-
     - [[album:celeste-classic]]
     - [[album:celeste-classic-2-lanis-trek-original-sound-version]]
     <h3>other additions</h3>
+    - added banner to [[album:celeste-farewell-original-soundtrack]]
+    - added performance credits by [[artist:michaela-nachtigall]], [[artist:sungha-hong]], and [[artist:doug-perry]] to [[album:celeste-farewell-original-soundtrack]]
     - [[album:underlying-motifs]] have been added to the wiki (to allow for better referencing; see below)
     <h3>data fixes:</h3>
     - changed many references throughout the soundtrack to properly reference their [[album:underlying-motifs]] instead:
@@ -41,6 +43,7 @@ Content: |-
     - fixed [[track:enter-the-mirror]] not referencing [[track:badelines-theme]]
     - fixed [[track:in-stasis]] and [[track:beyond-the-heart]] not referencing [[track:madelines-grief]]
     - fixed [[track:area-1-demo]] referencing [[track:first-steps]] instead of the other way around
+    - fixed [[track:the-empty-space-above]] and [[track:fear-of-the-unknown]] having incorrect release dates
     <h2 id="01-mar-2023" class="major-release"><a href="#01-mar-2023">[[date:01 March 2023]] - Initial release!</a></h2>
     <h3>albums:</h3>
     - [[album:celeste-original-soundtrack]]

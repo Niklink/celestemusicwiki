@@ -28,7 +28,7 @@ URLs:
 - https://www.youtube.com/watch?v=Ctuo3ws3EKs
 - https://open.spotify.com/track/7irQdnDBovK2AVSBilasDZ
 Referenced Tracks:
-- Reach for the Summit
+- track:reach-for-the-summit
 ---
 Track: First Steps
 Duration: '03:38'
@@ -56,7 +56,7 @@ URLs:
 - https://www.youtube.com/watch?v=BFVyvGmwlmk
 - https://open.spotify.com/track/35p6mssMRYhqo1hFO0o6T9
 Referenced Tracks:
-- Resurrections
+- track:resurrections
 ---
 Track: Postcard from Celeste Mountain
 Duration: '01:32'
@@ -81,7 +81,7 @@ URLs:
 - https://www.youtube.com/watch?v=NRpcwd9MSSE
 - https://open.spotify.com/track/43padIzQhus8JOh9coOaav
 Referenced Tracks:
-- Scattered and Lost
+- track:scattered-and-lost
 ---
 Track: Scattered and Lost
 Duration: '05:53'
@@ -122,7 +122,7 @@ URLs:
 - https://www.youtube.com/watch?v=bXfHKEaDg4s
 - https://open.spotify.com/track/5WMePb6TFEQmi0SXHRKYdb
 Referenced Tracks:
-- Quiet and Falling
+- track:quiet-and-falling
 Lyrics: |-
     [Reversed]
     (Sometimes, I... don't really know... what's going on anymore. I... I don't... know who I am. I just... look in the mirror, and... don't know who I'm looking at. Or... who's looking at me. I... think a lot... about... where... my train of thought is going... and it's not always a good place. And that scares me. I don't... like... scaring myself. I don't...)
@@ -178,11 +178,11 @@ URLs:
 - https://open.spotify.com/track/6l9ygDSnRhbcuzzppGksQr
 Referenced Tracks:
 - Madeline's Theme
-- First Steps
-- Resurrections
-- Scattered and Lost
+- track:first-steps
+- track:resurrections
+- track:scattered-and-lost
 - Golden
-- Quiet and Falling
+- track:quiet-and-falling
 ---
 Track: Exhale
 Duration: '02:20'

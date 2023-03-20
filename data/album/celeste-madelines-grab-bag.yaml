@@ -31,7 +31,7 @@ Duration: '02:13'
 URLs:
 - https://radicaldreamland.bandcamp.com/track/forsaken-city-8-bit
 Referenced Tracks:
-- First Steps
+- track:first-steps
 ---
 Track: Old Site (8-Bit)
 Artists:
@@ -40,7 +40,7 @@ Duration: '02:13'
 URLs:
 - https://radicaldreamland.bandcamp.com/track/old-site-8-bit
 Referenced Tracks:
-- Resurrections
+- track:resurrections
 ---
 Track: Celestial Resort (8-Bit)
 Artists:
@@ -49,7 +49,7 @@ Duration: '02:13'
 URLs:
 - https://radicaldreamland.bandcamp.com/track/celestial-resort-8-bit
 Referenced Tracks:
-- Scattered and Lost
+- track:scattered-and-lost
 ---
 Track: Golden (8-Bit)
 Artists:
@@ -67,7 +67,7 @@ Duration: '02:13'
 URLs:
 - https://radicaldreamland.bandcamp.com/track/mirror-temple-8-bit
 Referenced Tracks:
-- Quiet and Falling
+- track:quiet-and-falling
 ---
 Track: Reflection (8-Bit)
 Artists:
@@ -85,7 +85,7 @@ Duration: '02:13'
 URLs:
 - https://radicaldreamland.bandcamp.com/track/summit-8-bit
 Referenced Tracks:
-- Reach for the Summit
+- track:reach-for-the-summit
 ---
 Track: The Core (8-Bit)
 Artists:
@@ -103,7 +103,7 @@ Duration: '03:44'
 URLs:
 - https://radicaldreamland.bandcamp.com/track/first-steps-piano-only
 Referenced Tracks:
-- First Steps
+- track:first-steps
 ---
 Track: Shattered Mirror
 Artists:
@@ -113,7 +113,7 @@ URLs:
 - https://radicaldreamland.bandcamp.com/track/shattered-mirror
 Referenced Tracks:
 - Badeline's Theme
-- Resurrections
+- track:resurrections
 ---
 Track: Enter the Mirror
 Artists:
@@ -122,7 +122,7 @@ Duration: '00:18'
 URLs:
 - https://radicaldreamland.bandcamp.com/track/enter-the-mirror
 Referenced Tracks:
-- Quiet and Falling
+- track:quiet-and-falling
 ---
 Track: Secret Shrine
 Artists:

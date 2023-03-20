@@ -76,7 +76,7 @@ Duration: '02:13'
 URLs:
 - https://radicaldreamland.bandcamp.com/track/reflection-8-bit
 Referenced Tracks:
-- Reflection
+- track:reflection
 ---
 Track: Summit (8-Bit)
 Artists:
@@ -94,7 +94,7 @@ Duration: '02:13'
 URLs:
 - https://radicaldreamland.bandcamp.com/track/the-core-8-bit
 Referenced Tracks:
-- Heart of the Mountain
+- track:heart-of-the-mountain
 ---
 Track: First Steps (Piano Only)
 Artists:

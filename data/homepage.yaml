@@ -3,16 +3,23 @@ Navbar Links:
 - '[[static:about]]'
 - '[[static:changelog]]'
 ---
-Row: Celeste Soundtrack
+Row: 
 Type: albums
 Albums:
 - album:celeste-original-soundtrack
 - album:celeste-b-sides
 - album:celeste-madelines-grab-bag
 - album:celeste-farewell-original-soundtrack
-
+---
+Row: 
+Type: albums
+Albums:
 - album:celeste-classic
 - album:celeste-classic-2-lanis-trek-original-sound-version
 - album:underlying-motifs
-
+---
+Row: 
+Type: albums
+Albums:
+- album:prescription-for-sleep-celeste
 - album:celeste-piano-collections

@@ -27,13 +27,15 @@ Content: |-
     <h3>albums:</h3>
     - [[album:celeste-classic]]
     - [[album:celeste-classic-2-lanis-trek-original-sound-version]]
+    - [[album:prescription-for-sleep-celeste]]
     - [[album:celeste-piano-collections]]
     <h3>other additions</h3>
     - added banner to [[album:celeste-farewell-original-soundtrack]]
     - added performance credits by [[artist:michaela-nachtigall]], [[artist:sungha-hong]], and [[artist:doug-perry]] to [[album:celeste-farewell-original-soundtrack]]
+    - added links to relevant interviews and articles to [[album:celeste-original-soundtrack]] and [[album:celeste-farewell-original-soundtrack]]
     - [[album:underlying-motifs]] have been added to the wiki (to allow for better referencing; see below)
     <h3>data fixes:</h3>
-    - changed many references throughout the soundtrack to properly reference their [[album:underlying-motifs]] instead:
+    - fixed many references throughout the soundtrack to properly reference their [[album:underlying-motifs]] instead:
         - changed from [[track:first-steps]] → [[track:madelines-theme]]: [[track:postcard-from-celeste-mountain]], [[track:anxiety]], [[track:madeline-and-theo]], [[track:secret-shrine]], [[track:madeline-levels-up]], [[track:chapter-complete-normal]], [[track:beyond-the-heart]], [[track:farewell]], [[track:wavedash-ppt]]
         - changed from [[track:little-goth]] → [[track:badelines-theme]]: [[track:confronting-myself]], [[track:beyond-the-heart]], [[track:reconciliation]], [[track:farewell]]
         - changed from [[track:madeline-and-theo]] → [[track:theos-theme]]: [[track:vovo-e-vovo]]

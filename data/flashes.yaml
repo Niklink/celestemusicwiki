@@ -72,7 +72,7 @@ Anchor: chapter-3
 Flash: 'Celestial Resort'
 Page: '3'
 Featured Tracks:
-- Checking In
+- track:checking-in
 - Spirit of Hospitality
 - track:scattered-and-lost
 - Celestial Resort (8-Bit)
@@ -143,7 +143,7 @@ Page: '6'
 Featured Tracks:
 - track:madeline-and-theo
 - Starjump
-- Reflection
+- track:reflection
 - Reflection (8-Bit)
 - Secret Shrine
 - track:confronting-myself
@@ -199,7 +199,7 @@ Anchor: chapter-8
 Flash: 'The Core'
 Page: '8'
 Featured Tracks:
-- Heart of the Mountain
+- track:heart-of-the-mountain
 - The Core (8-Bit)
 ---
 Flash: 'The Core B-Side'

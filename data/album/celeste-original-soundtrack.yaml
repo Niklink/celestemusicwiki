@@ -19,7 +19,13 @@ Wallpaper Style: |-
 Wallpaper File Extension: png
 Commentary: |-
     <i>Lena Raine:</i>
-    Original soundtrack for the game Celeste by Maddy, Noel, Amora, Pedro, Lena, Kevin & friends! 
+    Original soundtrack for the game Celeste by Maddy, Noel, Amora, Pedro, Lena, Kevin & friends!
+
+    <a href="http://www.originalsoundversion.com/interview-composer-lena-raine-talks-celeste-soundtrack-working-in-game-audio/">Interview with Original Sound Version!</a>
+
+    <a href="https://medium.com/@kuraine/a-little-bit-about-celestes-synths-and-some-bonus-piano-461f62605ea1">A Little Bit About Celeste’s Synths (And Some Bonus Piano)</a>
+
+    <a href="https://medium.com/@kuraine/a-bit-about-percussion-in-celeste-and-some-tangents-along-the-way-e8d3f3fb2272">A Bit About Percussion in Celeste, And Some Tangents Along the Way</a>
 ---
 Track: Prologue
 Duration: '01:07'
@@ -90,7 +96,7 @@ URLs:
 - https://www.youtube.com/watch?v=0etenwnI1wo
 - https://open.spotify.com/track/5tafBbOkBCpvYAFq8OBmBB
 Referenced Tracks:
-- Checking In
+- track:checking-in
 ---
 Track: Golden
 Duration: '08:28'

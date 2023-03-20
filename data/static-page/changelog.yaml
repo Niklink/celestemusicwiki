@@ -27,6 +27,16 @@ Content: |-
     <h3>other additions</h3>
     - [[album:underlying-motifs]]
     <h3>data fixes:</h3>
+    - changed many references throughout the soundtrack to properly reference their [[album:underlying-motifs]] instead:
+        - changed from [[track:first-steps]] → [[track:madelines-theme]]: [[track:postcard-from-celeste-mountain]], [[track:anxiety]], [[track:madeline-and-theo]], [[track:secret-shrine]], [[track:madeline-levels-up]], [[track:chapter-complete-normal]], [[track:beyond-the-heart]], [[track:farewell]], [[track:wavedash-ppt]]
+        - changed from [[track:little-goth]] → [[track:badelines-theme]]: [[track:confronting-myself]], [[track:beyond-the-heart]], [[track:reconciliation]], [[track:farewell]]
+        - changed from [[track:madeline-and-theo]] → [[track:theos-theme]]: [[track:vovo-e-vovo]]
+        - changed from [[track:fear-of-the-unknown]] → [[track:madelines-grief]]: [[track:joy-of-remembrance]]
+        - changed from [[track:fear-of-the-unknown]] → [[track:birds-theme]]: [[track:joy-of-remembrance]], [[track:reconciliation]], [[track:farewell]], [[track:the-woman-and-the-bird]]
+        - changed from [[track:joy-of-remembrance]] → [[track:grannys-theme]]: [[track:beyond-the-heart]], [[track:vovo-e-vovo]]
+    - fixed [[track:reach-for-the-summit]] not referencing [[track:madelines-theme]]
+    - fixed [[track:enter-the-mirror]] not referencing [[track:badelines-theme]]
+    - fixed [[track:in-stasis]] and [[track:beyond-the-heart]] not referencing [[track:madelines-grief]]
     - fixed [[track:area-1-demo]] referencing [[track:first-steps]] instead of the other way around
     <h2 id="01-mar-2023" class="major-release"><a href="#01-mar-2023">[[date:01 March 2023]] - Initial release!</a></h2>
     <h3>albums:</h3>

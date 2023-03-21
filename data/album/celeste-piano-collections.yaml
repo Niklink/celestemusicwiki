@@ -19,6 +19,8 @@ Banner Artists:
 - Niklink (edits for wiki)
 Banner File Extension: png
 Wallpaper File Extension: png
+Wallpaper Style: |-
+    opacity: 0.9;
 Additional Files:
 - Title: Bandcamp Banner
   Files:

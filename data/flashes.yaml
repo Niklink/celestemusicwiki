@@ -1,145 +1,75 @@
-Color: '#B4FFFF'
+Color: '#D5F6FF'
 Act: Celeste
 Anchor: celeste
 ---
 Flash: 'Menus'
-Page: 'menus'
+Directory: 'menus'
+Cover Art File Extension: png
 Featured Tracks:
 - Postcard from Celeste Mountain
 - The Empty Space Above
 - track:my-dearest-friends
 ---
-Color: '#B77051'
-Act: Prologue
-Anchor: prologue
----
 Flash: 'Prologue'
-Page: 'prologue'
+Directory: 'prologue'
+Cover Art File Extension: png
 Featured Tracks:
 - track:prologue
 ---
-Color: '#608BFF'
-Act: Chapter 1
-Anchor: chapter-1
----
-Flash: 'Forsaken City'
-Page: '1'
+Flash: 'Chapter 1: Forsaken City'
+Directory: '1'
+Cover Art File Extension: png
 Featured Tracks:
 - track:first-steps
 - track:madeline-and-theo
 - First Steps (Piano Only)
 - Forsaken City (8-Bit)
----
-Flash: 'Forsaken City B-Side'
-Page: '1b'
-Featured Tracks:
-- Forsaken City (Sever the Skyline Mix)
-- Forsaken City (8-Bit)
----
-Flash: 'Forsaken City C-Side'
-Page: '1c'
-Featured Tracks:
 - Forsaken City (Sever the Skyline Mix)
 ---
-Color: '#BC90B7'
-Act: Chapter 2
-Anchor: chapter-2
----
-Flash: 'Old Site'
-Page: '2'
+Flash: 'Chapter 2: Old Site'
+Directory: '2'
+Cover Art File Extension: png
 Featured Tracks:
 - track:resurrections
 - Shattered Mirror
 - Old Site (8-Bit)
 - track:awake
 - track:madeline-and-theo
----
-Flash: 'Old Site B-Side'
-Page: '2b'
-Featured Tracks:
-- Old Site (Black Moonrise Mix)
-- Old Site (8-Bit)
----
-Flash: 'Old Site C-Side'
-Page: '2c'
-Featured Tracks:
 - Old Site (Black Moonrise Mix)
 ---
-Color: '#B98232'
-Act: Chapter 3
-Anchor: chapter-3
----
-Flash: 'Celestial Resort'
-Page: '3'
+Flash: 'Chapter 3: Celestial Resort'
+Directory: '3'
+Cover Art File Extension: png
 Featured Tracks:
 - track:checking-in
 - Spirit of Hospitality
 - track:scattered-and-lost
 - Celestial Resort (8-Bit)
----
-Flash: 'Celestial Resort B-Side'
-Page: '3b'
-Featured Tracks:
-- Celestial Resort (Good Karma Mix)
-- Celestial Resort (8-Bit)
----
-Flash: 'Celestial Resort C-Side'
-Page: '3c'
-Featured Tracks:
 - Celestial Resort (Good Karma Mix)
 ---
-Color: '#D7A5FF'
-Act: Chapter 4
-Anchor: chapter-4
----
-Flash: 'Golden Ridge'
-Page: '4'
+Flash: 'Chapter 4: Golden Ridge'
+Directory: '4'
+Cover Art File Extension: png
 Featured Tracks:
 - Golden
 - Golden (8-Bit)
 - track:madeline-and-theo
 - Anxiety
----
-Flash: 'Golden Ridge B-Side'
-Page: '4b'
-Featured Tracks:
-- Golden Ridge (Golden Feather Mix)
-- Golden (8-Bit)
----
-Flash: 'Golden Ridge C-Side'
-Page: '4c'
-Featured Tracks:
 - Golden Ridge (Golden Feather Mix)
 ---
-Color: '#8BC8E4'
-Act: Chapter 5
-Anchor: chapter-5
----
-Flash: 'Mirror Temple'
-Page: '5'
+Flash: 'Chapter 5: Mirror Temple'
+Directory: '5'
+Cover Art File Extension: png
 Featured Tracks:
 - track:quiet-and-falling
 - Mirror Temple (8-Bit)
 - Enter the Mirror
 - track:in-the-mirror
----
-Flash: 'Mirror Temple B-Side'
-Page: '5b'
-Featured Tracks:
-- Mirror Temple (Mirror Magic Mix)
-- Mirror Temple (8-Bit)
----
-Flash: 'Mirror Temple C-Side'
-Page: '5c'
-Featured Tracks:
 - Mirror Temple (Mirror Magic Mix)
 ---
-Color: '#62E84B'
-Act: Chapter 6
-Anchor: chapter-6
----
-Flash: 'Reflection'
-Page: '6'
+Flash: 'Chapter 6: Reflection'
+Directory: '6'
+Cover Art File Extension: png
 Featured Tracks:
 - track:madeline-and-theo
 - Starjump
@@ -149,76 +79,34 @@ Featured Tracks:
 - track:confronting-myself
 - Madeline Levels Up
 - track:little-goth
----
-Flash: 'Reflection B-Side'
-Page: '6b'
-Featured Tracks:
-- Reflection (Center of the Earth Mix)
-- Reflection (8-Bit)
----
-Flash: 'Reflection C-Side'
-Page: '6c'
-Featured Tracks:
 - Reflection (Center of the Earth Mix)
 ---
-Color: '#FFA3F5'
-Act: Chapter 7
-Anchor: chapter-7
----
-Flash: 'The Summit'
-Page: '7'
+Flash: 'Chapter 7: The Summit'
+Directory: '7'
+Cover Art File Extension: png
 Featured Tracks:
 - track:reach-for-the-summit
 - Summit (8-Bit)
 - track:exhale
----
-Flash: 'The Summit B-Side'
-Page: '7b'
-Featured Tracks:
 - Summit (No More Running Mix)
-- Summit (8-Bit)
----
-Flash: 'The Summit C-Side'
-Page: '7c'
-Featured Tracks:
-- Summit (No More Running Mix)
----
-Color: '#B77051'
-Act: Epilogue
-Anchor: epilogue
 ---
 Flash: 'Epilogue'
-Page: 'epilogue'
+Directory: 'epilogue'
+Cover Art File Extension: png
 Featured Tracks:
 - track:exhale
 ---
-Color: '#A8170B'
-Act: Chapter 8
-Anchor: chapter-8
----
-Flash: 'The Core'
-Page: '8'
+Flash: 'Chapter 8: The Core'
+Directory: '8'
+Cover Art File Extension: png
 Featured Tracks:
 - track:heart-of-the-mountain
 - The Core (8-Bit)
----
-Flash: 'The Core B-Side'
-Page: '8b'
-Featured Tracks:
-- The Core (Say Goodbye Mix)
-- The Core (8-Bit)
----
-Flash: 'The Core C-Side'
-Page: '8c'
-Featured Tracks:
 - The Core (Say Goodbye Mix)
 ---
-Color: '#A1B1DB'
-Act: Chapter 9
-Anchor: chapter-9
----
-Flash: 'Farewell'
-Page: '9'
+Flash: 'Chapter 9: Farewell'
+Directory: '9'
+Cover Art File Extension: png
 Featured Tracks:
 - Fear of the Unknown
 - Joy of Remembrance
@@ -232,3 +120,27 @@ Featured Tracks:
 - Farewell
 - The Woman and the Bird
 - Vovô e Vovó
+---
+Color: '#FFCCAA'
+Act: PICO-8
+Anchor: pico-8
+---
+Flash: 'Celeste Classic'
+Directory: 'celeste-classic'
+Cover Art File Extension: png
+Featured Tracks:
+- Title Screen
+- Area 1
+- Rest
+- Area 2
+- Area 3
+---
+Flash: "Celeste Classic 2: Lani's Trek"
+Directory: 'celeste-classic-2'
+Cover Art File Extension: png
+Featured Tracks:
+- a familiar mountain
+- beneath the bridge
+- got a grapple!
+- lani's trek
+- fallen in flowers

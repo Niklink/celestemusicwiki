@@ -1,7 +1,7 @@
 Name: Celeste Music Wiki
 
 Enable Flashes & Games: true
-Enable Listings: false
+Enable Listings: true
 Enable News: false
 Enable Art Tag UI: false
-Enable Group UI: true
+Enable Group UI: false

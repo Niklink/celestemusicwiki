@@ -2,5 +2,6 @@ Name: About
 Directory: about
 Content: |-
     Welcome to the Celeste Music Wiki!
-    This project is based on the <a href="https://hsmusic.wiki/">Homestuck Music Wiki</a> and <a href="https://github.com/hsmusic/">its code</a>, which I heavily recommend you check out for more information.
-    For now, this wiki is just a demo, but maybe in the future...?
+    This wiki was created by <a href="https://github.com/Niklink">Niklink</a> based on the <a href="https://hsmusic.wiki/">Homestuck Music Wiki</a> and <a href="https://github.com/hsmusic/">its code</a>, which I heavily recommend you check out! The data and media used to build this wiki is <a href="https://github.com/Niklink/celestemusicwiki">available on GitHub</a>.
+    While initially a test, it's collated enough information to serve as a useful resource of its own— it aims to cover all official Celeste music and albums. However, its scope is limited to <i>digital</i> releases. Although the soundtrack has seen a wide variety of physical editions, they don't contain any new material and are a poor fit for the capabilities of the site. In the future, the wiki may grow to support information on soundtracks to Celeste fan mods.
+    If you have any feedback or suggestions, the easiest way to get in touch with me for the time being is by visiting the <a href="https://hsmusic.wiki/discord/">HSMusic Wiki Discord server</a>.

@@ -1,5 +1,7 @@
 Homepage: Homepage
 Navbar Links:
+- '[[listing-index:-|Listings]]'
+- '[[flash-index:-|Soundtrack]]'
 - '[[static:about]]'
 - '[[static:changelog]]'
 ---
@@ -10,15 +12,11 @@ Albums:
 - album:celeste-b-sides
 - album:celeste-madelines-grab-bag
 - album:celeste-farewell-original-soundtrack
----
-Row: 
-Type: albums
-Albums:
 - album:celeste-classic
 - album:celeste-classic-2-lanis-trek-original-sound-version
 - album:underlying-motifs
 ---
-Row: 
+Row: Other Albums
 Type: albums
 Albums:
 - album:prescription-for-sleep-celeste

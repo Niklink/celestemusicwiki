@@ -8,3 +8,4 @@
 /media/**/*.large.jpg
 /media/**/*.semihuge.jpg
 /media/**/*.huge.jpg
+/media-cache

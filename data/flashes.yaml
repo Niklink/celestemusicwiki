@@ -1,6 +1,5 @@
 Color: '#D5F6FF'
 Act: Celeste
-Anchor: celeste
 ---
 Flash: 'Menus'
 Directory: 'menus'
@@ -123,7 +122,6 @@ Featured Tracks:
 ---
 Color: '#FFCCAA'
 Act: PICO-8
-Anchor: pico-8
 ---
 Flash: 'Celeste Classic'
 Directory: 'celeste-classic'

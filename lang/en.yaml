@@ -1,0 +1,33 @@
+meta.languageCode: en
+meta.languageName: English
+
+count:
+  flashes:
+    withUnit:
+      one: "{FLASHES} chapter or game"
+      other: "{FLASHES} chapters & games"
+
+misc:
+  skippers:
+    flashes: "Chapters & Games"
+
+artistPage:
+  flashList: "Chapters & Games"
+
+releaseInfo:
+  flashesThatFeature: "Chapters & games that {TRACK}:"
+
+flashIndex:
+  title: "Soundtrack"
+
+listingPage:
+  listArtists.byContribs:
+    chunk.title.flashContributors: "Contributed to chapters & games:"
+
+  listTracks.inFlashes.byAlbum:
+    title: "Tracks - in Chapters & Games (by Album)"
+    title.short: "...in Chapters & Games (by Album)"
+
+  listTracks.inFlashes.byFlash:
+    title: "Tracks - by Chapters & Games"
+    title.short: "...by Chapters & Games"

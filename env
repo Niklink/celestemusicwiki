@@ -1,6 +1,7 @@
 #!/bin/sh
 export HSMUSIC_DATA="$(pwd)/data/"
 export HSMUSIC_MEDIA="$(pwd)/media/"
+export HSMUSIC_LANG="$(pwd)/lang/"
 export HSMUSIC_OUT="$(pwd)/out/"
 
 # Prefer zsh? Use this instead:

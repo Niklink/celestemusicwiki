@@ -3,6 +3,7 @@ Act: Celeste
 ---
 Flash: 'Menus'
 Directory: 'menus'
+Date: January 25, 2018
 Cover Art File Extension: png
 Featured Tracks:
 - Postcard from Celeste Mountain
@@ -11,12 +12,14 @@ Featured Tracks:
 ---
 Flash: 'Prologue'
 Directory: 'prologue'
+Date: January 25, 2018
 Cover Art File Extension: png
 Featured Tracks:
 - track:prologue
 ---
 Flash: 'Chapter 1: Forsaken City'
 Directory: '1'
+Date: January 25, 2018
 Cover Art File Extension: png
 Featured Tracks:
 - track:first-steps
@@ -27,6 +30,7 @@ Featured Tracks:
 ---
 Flash: 'Chapter 2: Old Site'
 Directory: '2'
+Date: January 25, 2018
 Cover Art File Extension: png
 Featured Tracks:
 - track:resurrections
@@ -38,6 +42,7 @@ Featured Tracks:
 ---
 Flash: 'Chapter 3: Celestial Resort'
 Directory: '3'
+Date: January 25, 2018
 Cover Art File Extension: png
 Featured Tracks:
 - track:checking-in
@@ -48,6 +53,7 @@ Featured Tracks:
 ---
 Flash: 'Chapter 4: Golden Ridge'
 Directory: '4'
+Date: January 25, 2018
 Cover Art File Extension: png
 Featured Tracks:
 - Golden
@@ -58,6 +64,7 @@ Featured Tracks:
 ---
 Flash: 'Chapter 5: Mirror Temple'
 Directory: '5'
+Date: January 25, 2018
 Cover Art File Extension: png
 Featured Tracks:
 - track:quiet-and-falling
@@ -68,6 +75,7 @@ Featured Tracks:
 ---
 Flash: 'Chapter 6: Reflection'
 Directory: '6'
+Date: January 25, 2018
 Cover Art File Extension: png
 Featured Tracks:
 - track:madeline-and-theo
@@ -82,6 +90,7 @@ Featured Tracks:
 ---
 Flash: 'Chapter 7: The Summit'
 Directory: '7'
+Date: January 25, 2018
 Cover Art File Extension: png
 Featured Tracks:
 - track:reach-for-the-summit
@@ -91,12 +100,14 @@ Featured Tracks:
 ---
 Flash: 'Epilogue'
 Directory: 'epilogue'
+Date: January 25, 2018
 Cover Art File Extension: png
 Featured Tracks:
 - track:exhale
 ---
 Flash: 'Chapter 8: The Core'
 Directory: '8'
+Date: January 25, 2018
 Cover Art File Extension: png
 Featured Tracks:
 - track:heart-of-the-mountain
@@ -105,6 +116,7 @@ Featured Tracks:
 ---
 Flash: 'Chapter 9: Farewell'
 Directory: '9'
+Date: September 9, 2019
 Cover Art File Extension: png
 Featured Tracks:
 - Fear of the Unknown
@@ -121,10 +133,11 @@ Featured Tracks:
 - Vovô e Vovó
 ---
 Color: '#FFCCAA'
-Act: PICO-8
+Act: Other Games
 ---
 Flash: 'Celeste Classic'
 Directory: 'celeste-classic'
+Date: July 21, 2015
 Cover Art File Extension: png
 Featured Tracks:
 - Title Screen
@@ -135,6 +148,7 @@ Featured Tracks:
 ---
 Flash: "Celeste Classic 2: Lani's Trek"
 Directory: 'celeste-classic-2'
+Date: January 25, 2021
 Cover Art File Extension: png
 Featured Tracks:
 - a familiar mountain
@@ -142,3 +156,13 @@ Featured Tracks:
 - got a grapple!
 - lani's trek
 - fallen in flowers
+---
+Flash: "Celeste 64: Fragments of the Mountain"
+Directory: 'celeste-64'
+Date: January 29, 2024
+Cover Art File Extension: png
+Featured Tracks:
+- Fragments of the Mountain
+- Next Steps
+- Cassettappella
+- Inner Goth
